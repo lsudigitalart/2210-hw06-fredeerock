@@ -24,9 +24,9 @@ function draw() {
 
   } else {
 
-    image(lorem, 0, 0)
+    // image(lorem, 0, 0)
 
-    // image(pump, 0, 0, 300, 300)
+    image(pump, 0, 0, 300, 300)
   }
 
   print(myIP)
